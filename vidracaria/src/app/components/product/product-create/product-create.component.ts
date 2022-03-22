@@ -7,9 +7,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProductCreateComponent implements OnInit {
 
+  atributo = "qualquer"
+
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  navigateToProductCreate(): void {
+    console.log('Navegandoo...')
   }
 
 }
