@@ -16,14 +16,20 @@
       "price": 550
     },
     {
-      "name": "Box_banheiro",
+      "name": "Vidro",
       "price": 580,
       "id": 4
     },
     {
-      "name": "Box_banheiro",
-      "price": 580,
+      "name": "Luis Henrique Silva Ferreira",
+      "rg": "2334445",
       "id": 5
+    },
+    
+    {
+      "name": "Luis Henrique Silva Ferreira",
+      "rg": "1111111111",
+      "id": 7
     }
   ]
 }
