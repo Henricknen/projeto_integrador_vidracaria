@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "BMW",
+      "price": 250
+    },
+    {
+      "id": 2,
+      "name": "Ferrari",
+      "price": 450
+    },
+    {
+      "id": 3,
+      "name": "Porche",
+      "price": 550
+    },
+    {
+      "name": "Box_banheiro",
+      "price": 580,
+      "id": 4
+    },
+    {
+      "name": "Box_banheiro",
+      "price": 580,
+      "id": 5
+    }
+  ]
+}
